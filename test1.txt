@@ -2,4 +2,5 @@
 --最新增加的内容
 这是master和cx2
 version 1
+version 2
 
